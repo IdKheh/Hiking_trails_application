@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Traces</string>
+    <string name="first_fragment_label">Hello blank fragment</string>
+    <string name="second_fragment_label">LoginGoogle</string>
+    <string name="info">Aplikacja prezentuje wybrane tatrańskie szlaki turystyczne.
+    Ułatwia wybór trasy oraz mierzy czas przejścia trasy.</string>
+</resources>

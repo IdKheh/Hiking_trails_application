@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_fill0_wght400_grad0_opsz24"
+        android:title="Home" />
+    <item
+        android:id="@+id/traces1"
+        android:icon="@drawable/hiking_fill0_wght400_grad0_opsz24"
+        android:title="Łatwe"/>
+    <item
+        android:id="@+id/traces2"
+        android:icon="@drawable/landscape_fill0_wght400_grad0_opsz24"
+        android:title="Trudniejsze"/>
+</menu>
