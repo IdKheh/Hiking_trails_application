@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main), GestureDetector.
 
         val home = Information()
         val listTraces1 = ListTraces.newInstance("easy")
-        val listTraces2 = ListTraces.newInstance("difficult ")
+        val listTraces2 = ListTraces.newInstance("difficult")
 
         when (event?.action) {
             0 -> {
